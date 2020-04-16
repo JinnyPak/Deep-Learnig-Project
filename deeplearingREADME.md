@@ -176,7 +176,7 @@ ks_text_state=pd.concat([text_dataset[['content','risk_challenge']],meta_2015_20
 ks_text_state
 ```
 
-```html
+
   <div>
   <style scoped>
       .dataframe tbody tr th:only-of-type {
@@ -242,7 +242,7 @@ ks_text_state
   </table>
   <p>151061 rows × 3 columns</p>
   </div>
-```
+
 
 
 ```python
