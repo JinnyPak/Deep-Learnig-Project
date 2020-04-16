@@ -175,6 +175,7 @@ ks_text_state=pd.concat([text_dataset[['content','risk_challenge']],meta_2015_20
 ## Dataframe 형태 확인
 ks_text_state
 ```
+
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
