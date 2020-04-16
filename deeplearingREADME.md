@@ -20,7 +20,7 @@ Kickstarter Dataset. webrobots 측 에서 한달에 한번 한달치의 메타 �
 1. 메타 데이터 (일부분)
 
   
-  |    | category_name    | location_name   | country_displayable_name   |   date_launched_month | is_starrable   | state   
+  |    | category_name    | location_name   | country_displayable_name   |   date_launched_month | is_starrable   | state|   
   |---:|:-----------------|:----------------|:---------------------------|----------------------:|:---------------|:-----------|
   |  0 | Children's Books | Ste.-Maxime     | France                     |                     6 | False          | successful |
   |  1 | Graphic Novels   | Minneapolis     | the United States          |                     8 | False          | successful |
