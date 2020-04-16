@@ -177,71 +177,13 @@ ks_text_state
 ```
 
 
-  <div>
-  <style scoped>
-      .dataframe tbody tr th:only-of-type {
-          vertical-align: middle;
-      }
+| |content|risk_challenge|state|
+|---:|--------:|:-----------------|:----------------|
+0|['Meet Jane Bowles: incredible author, inspiri...|The main obstacles this book faces are the siz...|successful|
+1|["I've always been passionate about efficiency...|The biggest challenge in completing this proje...|successful
+2|['Billet Dice', 'Billet Dice are made from bil...|The international shipping is a worry but I wa..|successful
 
-      .dataframe tbody tr th {
-          vertical-align: top;
-      }
-
-      .dataframe thead th {
-          text-align: right;
-      }
-  </style>
-  <table border="1" class="dataframe">
-    <thead>
-      <tr style="text-align: right;">
-        <th></th>
-        <th>content</th>
-        <th>risk_challenge</th>
-        <th>state</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>0</th>
-        <td>['Meet Jane Bowles: incredible author, inspiri...</td>
-        <td>The main obstacles this book faces are the siz...</td>
-        <td>successful</td>
-      </tr>
-      <tr>
-        <th>1</th>
-        <td>["I've always been passionate about efficiency...</td>
-        <td>The biggest challenge in completing this proje...</td>
-        <td>successful</td>
-      </tr>
-      <tr>
-        <th>2</th>
-        <td>['Billet Dice', 'Billet Dice are made from bil...</td>
-        <td>The international shipping is a worry but I wa...</td>
-        <td>successful</td>
-      </tr>
-      <tr>
-        <th>3</th>
-        <td>['With this film we want to entertain you in a...</td>
-        <td>We will be using the money to prevent any prob...</td>
-        <td>failed</td>
-      </tr>
-      <tr>
-        <th>4</th>
-        <td>['The Splash Drone is a fully waterproof quad ...</td>
-        <td>We have spent countless hours and many months ...</td>
-        <td>successful</td>
-      </tr>
-      <tr>
-        <th>...</th>
-        <td>...</td>
-        <td>...</td>
-        <td>...</td>
-      </tr>
-
-    </tbody>
-  </table>
-  <p>151061 rows × 3 columns</p>
-  </div>
+151061 rows × 3 columns
 
 
 
