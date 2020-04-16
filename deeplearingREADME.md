@@ -63,7 +63,7 @@ Kickstarter Dataset. webrobots 측 에서 한달에 한번 한달치의 메타 �
 
 
 ||name|	blurb|	content|	risk_challenge|
-|---:|--------:|:-----------------|:----------------|:---------------------------|-----------:|
+|---:|--------:|:-----------------|:----------------|:---------------------------|
 |0|	Strange Wit, an original graphic novel about J...	|The true biography of the historical figure, w...	|['Meet Jane Bowles: incredible author, inspiri...	|The main obstacles this book faces are the siz...
 1	|Living Life Tiny	|Educating my community about self-sufficiency ...|	["I've always been passionate about efficiency...	|The biggest challenge in completing this proje...
 
