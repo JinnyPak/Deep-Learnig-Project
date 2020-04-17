@@ -486,6 +486,12 @@ pred_proba
 ## 7. 예측모델을 활용한 웹 어플리케이션
 - Django 로 구현한 예측 웹 어플리케이션은 아래 링크로 접속하여 확인가능합니다.
 https://github.com/JinnyPak/django_prediction_service
+![django_screenshot](./img/django화면.JPG)
+![django_screenshot](./img/django화면2.JPG)
+
+
+
+출처: https://zeddios.tistory.com/34 [ZeddiOS]
 <br><br>
 
 # 8. 한계점과 보완점
